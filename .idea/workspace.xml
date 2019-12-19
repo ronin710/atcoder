@@ -14,7 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1VBpmrZGmMw98bRg08jwryFq26K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,9 +55,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1576736530480">
+    <state x="791" y="123" key="FileChooserDialogImpl" timestamp="1576740251728">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="501" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1576736530480" />
+    <state x="791" y="123" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1576740251728" />
+    <state x="520" y="15" width="983" height="708" key="SettingsEditor" timestamp="1576740255228">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="520" y="15" width="983" height="708" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576740255228" />
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1576740377140">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1576740377140" />
+    <state x="209" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576740336182">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="209" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1576740336182" />
   </component>
 </project>
